@@ -739,8 +739,6 @@ header .intro-text {
 .timeline>li.timeline-inverted>.timeline-panel {
 	padding: 10px 100px 20px 20px;
 }
-}
-
 .video{
 	position:relative;
 	width:100%;
@@ -753,3 +751,5 @@ header .intro-text {
 	width:100%;
 	height:100%;
   }
+}
+
